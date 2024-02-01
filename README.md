@@ -8,9 +8,9 @@ This repository contains a comprehensive collection of projects developed during
 - **Practical Application:** Each project was designed to apply theoretical knowledge in real-world scenarios, enhancing problem-solving skills and technical proficiency.
 
 ### Project Highlights
-- **Total Lines of Code:** Approximately 1000 lines, showcasing the depth and breadth of coding skills developed.
-- **Database Integrations:** Multiple projects involved integrating databases, demonstrating proficiency in database management and SQL.
-- **API Integrations:** Several assignments required the use of APIs, reflecting the ability to interact with various web services and process data efficiently.
+- **Total Lines of Code:** About 1940 lines of codes showcasing the depth and breadth of coding skills developed.
+- **Database Integrations:** 7 SQL databases, besides multiple JSON, HTML and text files integrated into different projects
+- **API Integrations:** 8 assignments required the use of APIs, reflecting the ability to interact with various web services and process data efficiently.
 
 ### Grading Methodology
 - **Auto-Grader System:** Projects were rigorously evaluated using an automated grading system, ensuring objective assessment of technical accuracy.
