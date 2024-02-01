@@ -1,6 +1,6 @@
 # University of Michigan - Python Specialization Projects
 
-This repository contains all the projects I created as a part of the programming specialization at University of Michigan. There are individual readmes at each directory that the summarize the comprehensive learning journey undertaken during the 5-course programming specialization at the University of Michigan. Spearheaded by the esteemed Professor Charles Severance, the course provided an immersive experience in various aspects of programming, emphasizing hands-on learning through project assignments.
+This repository contains a comprehensive collection of projects developed during my Programming Specialization at the University of Michigan. Each directory is accompanied by a detailed README, providing an overview of the extensive educational journey and key learnings acquired throughout this five-course specialization. Spearheaded by the esteemed Professor Charles Severance, the course provided an immersive experience in various aspects of programming, emphasizing hands-on learning through project assignments.
 
 ### Course Learning Outcomes
 
@@ -18,3 +18,6 @@ This repository contains all the projects I created as a part of the programming
 
 ### Acknowledgments
 Special thanks to Professor Charles Severance, whose expertise and passion for teaching have been instrumental in shaping this learning journey. His dedication to the field of computer science is truly inspiring.
+
+### Certification
+Feel free to checkout the following link where you will find comprehensive information regarding my certification credentials and the accredited course: [https://github.com/shaikabdulq/shaikabdulq/tree/main/Certifications]
