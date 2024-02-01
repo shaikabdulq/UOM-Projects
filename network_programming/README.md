@@ -13,7 +13,7 @@ This repository contains a collection of Python scripts demonstrating various as
 
 <br>
 
-2. **urllib_web_text_reader.py:**This script retrieves text from a specific URL using urllib and prints each line of the text. It's a straightforward demonstration of using urllib to read web content.
+2. **urllib_web_text_reader.py:** This script retrieves text from a specific URL using urllib and prints each line of the text. It's a straightforward demonstration of using urllib to read web content.
 
 <br>
 
