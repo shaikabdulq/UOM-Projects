@@ -6,11 +6,29 @@
 This repository contains a collection of Python scripts demonstrating various aspects of web networking, including basic socket programming, web scraping, and HTML parsing. These scripts are ideal for educational purposes and provide a practical understanding of handling network requests, parsing HTML content, and working with web data in Python.
 
 ### Scripts
+
+<br>
+
 1. **web_socket_connection.py:** This script creates a socket connection to a specified server, sends a GET request, and prints the received response. It demonstrates basic socket programming in Python.
+
+<br>
+
 2. **urllib_web_text_reader.py:**This script retrieves text from a specific URL using urllib and prints each line of the text. It's a straightforward demonstration of using urllib to read web content.
+
+<br>
+
 3. **url_word_frequency_count.py:** This script reads a text file from a URL using urllib module, processes the text to find the most frequently occurring word, and then displays that word along with its frequency. 
+
+<br>
+
 4. **sum_numeric_in_html.py:** This script parses HTML, using BeautifulSoup Module, from a URL to extract and sum numeric values contained in 'span' tags. Then, it prints the total sum and count of numbers.
+
+<br>
+
 5. **html_links_scraper.py:** This script reads HTML from a user-input URL, parses it with BeautifulSoup, and prints the contents and href of 'a' tags. It also counts and displays the number of 'a' tags found.
+
+<br>
+
 6. **url_navigation_looper.py:** This script fetches HTML from a user-input URL and navigates through the links in a loop, based on user-input count and position. It uses BeautifulSoup for parsing and displays the current URL being retrieved.
 
 ### Installation
