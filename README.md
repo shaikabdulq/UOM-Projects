@@ -19,5 +19,7 @@ This repository contains a comprehensive collection of projects developed during
 ### Acknowledgments
 Special thanks to Professor Charles Severance, whose expertise and passion for teaching have been instrumental in shaping this learning journey. His dedication to the field of computer science is truly inspiring.
 
+<img src ='severance_charles_03.jpg' height='200'>
+
 ### Certification
 Feel free to checkout the following link where you will find comprehensive information regarding my certification credentials and the accredited course: [https://github.com/shaikabdulq/shaikabdulq/tree/main/Certifications]
